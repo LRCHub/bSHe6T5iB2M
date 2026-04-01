@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "base_track": "向日葵",
+  "base_artist": "Ado",
+  "createdAt": "2026-04-01T12:47:19.466554Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "向日葵",
+      "artist": "Aqua Timez",
+      "has_synced": true,
+      "path": "select/01_向日葵_Aqua_Timez.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "向日葵 - LOVE IS BORN ~17th Anniversary 2020~ Studio Live 2020.09.05",
+      "artist": "Ai Otsuka",
+      "has_synced": true,
+      "path": "select/02_向日葵_-_LOVE_IS_BORN_~17th_Anniversary_2020~_Studio_Live_2020.09.05_Ai_Otsuka.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "向日葵 (LOVE IS BORN ～17th Anniversary 2020～ Studio Live 2020.09.05)",
+      "artist": "大塚 愛",
+      "has_synced": true,
+      "path": "select/03_向日葵_(LOVE_IS_BORN_~17th_Anniversary_2020~_Studio_Live_2020.09.05)_大塚_愛.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "向日葵",
+      "artist": "MINMI",
+      "has_synced": false,
+      "path": "select/04_向日葵_MINMI.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "向日葵",
+      "artist": "MINMI",
+      "has_synced": true,
+      "path": "select/05_向日葵_MINMI.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "向日葵",
+      "artist": "manaco",
+      "has_synced": true,
+      "path": "select/06_向日葵_manaco.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "向日葵",
+      "artist": "Younha",
+      "has_synced": false,
+      "path": "select/07_向日葵_Younha.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "向日葵",
+      "artist": "syrup16g",
+      "has_synced": false,
+      "path": "select/08_向日葵_syrup16g.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "向日葵",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/09_向日葵_Ado.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ヒマワリ (向日葵)",
+      "artist": "Kicco",
+      "has_synced": true,
+      "path": "select/10_ヒマワリ_(向日葵)_Kicco.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "向日葵",
+      "artist": "高橋真梨子",
+      "has_synced": false,
+      "path": "select/11_向日葵_高橋真梨子.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "向日葵",
+      "artist": "Teresa Teng",
+      "has_synced": true,
+      "path": "select/12_向日葵_Teresa_Teng.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "向日葵",
+      "artist": "Teng, Teresa",
+      "has_synced": true,
+      "path": "select/13_向日葵_Teng,_Teresa.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "向日葵",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/14_向日葵_Ado.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "向日葵",
+      "artist": "大塚愛",
+      "has_synced": false,
+      "path": "select/15_向日葵_大塚愛.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ひまわり (向日葵)",
+      "artist": "遊助",
+      "has_synced": true,
+      "path": "select/16_ひまわり_(向日葵)_遊助.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "向日葵",
+      "artist": "TOOBOE",
+      "has_synced": true,
+      "path": "select/17_向日葵_TOOBOE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "向日葵",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_01_向日葵_Ado.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "向日葵",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/localdb_01_向日葵_Ado.lrc",
+      "repo_name": "bSHe6T5iB2M"
+    }
+  ]
+}
